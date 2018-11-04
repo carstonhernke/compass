@@ -31,7 +31,7 @@ new BreathingHalftone(img, {
   isRadial: false,
   // enables radial grid layout
 
-  channels: [ 'red', 'green', 'blue' ],
+  channels: [ 'red', 'blue' ],
   // layers of dots
   // 'lum' is another supported channel, for luminosity
 
