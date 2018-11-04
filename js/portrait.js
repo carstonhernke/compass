@@ -2,7 +2,7 @@
 var img = document.querySelector('.dot-tone-portrait img');
 
 // init halftone
-new BreathingHalftone( img, {
+new BreathingHalftone(img, {
   // ----- dot size ----- //
 
   dotSize: 1/40,
