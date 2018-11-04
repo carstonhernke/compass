@@ -5,7 +5,7 @@ var img = document.querySelector('.dot-tone-portrait img');
 new BreathingHalftone(img, {
   // ----- dot size ----- //
 
-  dotSize: 1/100,
+  dotSize: 1/80,
   // size of dots
   // as a fraction of the diagonal of the image
   // smaller dots = more dots = poorer performance
